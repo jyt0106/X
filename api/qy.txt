@@ -84,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jyt0106.github.io/l/api/sub/Bili.json",
+      "ext": "https://jyt0106.github.io/X/api/sub/Bili.json",
 "jar": "https://freetvbox.ml/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
     },
 
