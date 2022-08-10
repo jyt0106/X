@@ -1,8 +1,8 @@
 {
   "classes": [
     {
-      "type_name": "搞笑",
-      "type_id": "搞笑"
+      "type_name": "基金从业资格",
+      "type_id": "基金从业资格"
     },
     {
       "type_name": "鬼畜",
@@ -38,7 +38,7 @@
     }
   ],
   "filter": {
-    "搞笑": [
+    "基金从业资格": [
       {
         "key": "duration",
         "name": "时长",
