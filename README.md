@@ -3,4 +3,4 @@
 [仓库介绍](https://github.com/ygyzy/ygyzy.github.io#仓库介绍)
 
 ## 仓库介绍
-本仓库功能全部基于 `GitHub Page` 实现,访问地址： [【晴园】发布站](https://jyt0106.github.io/t/)
+本仓库功能全部基于 `GitHub Page` 实现,访问地址： [自用](https://jyt0106.github.io/t/)
