@@ -330,7 +330,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "28801b1dbaf4418fb7bc221a575703dd",
+      "ext": "59a418fad0794b72bf4604980203123a",
 "jar": "https://freetvbox.ml/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
 
     },
